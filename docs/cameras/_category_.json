@@ -1,0 +1,8 @@
+{
+    "label": "Cameras",
+    "position": 2,
+    "link": {
+      "type": "generated-index",
+      "description": "The pros and cons of cameras"
+    }
+}
