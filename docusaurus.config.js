@@ -18,7 +18,7 @@ const config = {
 
   // GitHub pages deployment config.
   organizationName: 'kwokkeith', // Usually your GitHub org/user name.
-  projectName: 'Capstone2024', // Usually your repo name.
+  projectName: 'Capstone-Documentation', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
