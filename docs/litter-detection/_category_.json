@@ -1,0 +1,8 @@
+{
+    "label": "Litter Detection",
+    "position": 3,
+    "link": {
+      "type": "generated-index",
+      "description": "Detection of litter"
+    }
+}
